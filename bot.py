@@ -7,10 +7,10 @@ from telethon import TelegramClient, events, Button
 # ===== КОНФИГ =====
 API_ID = 39469025
 API_HASH = '472c45ec74b210f75bff4e78ac9fe423'
-BOT_TOKEN = '8530824190:AAGUYkxt0Rfark07bDpn1qoJiaJ-d4UJuI4'
+BOT_TOKEN = '7650267900:AAFYxob_7xnsY0Sv8cxXgqEVNn42vxJXfXE'
 
 # Админы
-ADMINS = [8528496685, 98590087]
+ADMINS = [8528496685]
 MAIN_ADMIN = 8528496685
 
 # ===== БАЗЫ =====
